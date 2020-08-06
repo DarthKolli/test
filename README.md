@@ -5,7 +5,7 @@
 ## test headding 2
 **bold**
 
-[link to a web site](#http://www.cnn.com)
+[link to a web site](http://www.github.com)
 
 test and practice code samples
 
