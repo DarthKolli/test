@@ -6,6 +6,7 @@
 **bold**
 
 [link to a web site](http://www.github.com)
+[link2 to a web site](http://www.cnn.com)
 
 test and practice code samples
 
